@@ -555,3 +555,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/java,virtualenv,python,jupyternotebooks,visualstudiocode,netbeans,eclipse,linux,macos,windows,intellij,intellij+all
+demokafka/.vscode/settings.json
